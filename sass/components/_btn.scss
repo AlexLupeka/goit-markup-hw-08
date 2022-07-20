@@ -47,13 +47,9 @@
 
 .filter__btn {
 	padding: 6px 22px;
-	margin-right: 8px;
 
 	@extend %filter__btn;
 
-	& {
-		margin-bottom: 15px;
-	}
 	&:last-child {
 		margin-right: 0;
 	}
